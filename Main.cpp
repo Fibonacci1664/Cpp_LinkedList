@@ -78,6 +78,7 @@ public:
 
 		// Increment the size count of the list.
 		++size;
+
 	}
 };
 
